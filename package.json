@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "immutability-helper": "^2.8.1",
-    "mathjs": "^5.0.0",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-scripts": "^1.1.4"
+    "mathjs": "^5.2.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "^2.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
